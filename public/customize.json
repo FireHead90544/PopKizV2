@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "title": "Happy Birthday 🥳",
+    "description": "Enjoy your day!"
+  },
+  "initialGreeting": {
+    "greeting": "Hi,",
+    "name": "GalaxyAnhilator :3",
+    "subtext": "Woah. What?",
+    "announcement": "It's your birthday",
+    "chatBoxMessage": "Happy birthdayyy 🎉",
+    "sendButtonLabel": "Send",
+    "reactionsSequence": [
+      "Nah, it ain't fun",
+      "Thought, I'd do something else",
+      {
+        "text": "You deserve something.",
+        "emphasize": "special"
+      },
+      "Because,",
+      {
+        "text": "You're my fren",
+        "smiley": ">⩊<"
+      },
+      {
+        "drumRoll1": "andd",
+        "drumRoll2": "🥁..."
+      }
+    ]
+  },
+  "birthdayWish": {
+    "recipientImage": "https://placehold.co/470?text=404NotFoundHeh",
+    "mainWish": "Happy Birthday GalaxyAnhilator ◝(˶˃ ᵕ ˂˶)◜",
+    "message": "Many Many happy returns of the day :)"
+  },
+  "outro": {
+    "message": "Done? Nah. Wait. Wait.",
+    "replayText": "Or Click, if you want to start over.",
+    "smiley": ":)"
+  },
+  "scrapbook": {
+    "buttonLabel": "What's this?",
+    "images": [
+      "https://placehold.co/736?text=Image+1",
+      "https://placehold.co/736?text=Image+2",
+      "https://placehold.co/512?text=Image+3",
+      "https://placehold.co/470?text=404NotFoundHeh"
+    ],
+    "message": [
+      "Some Personalized Message :3",
+      "More messages! Could be long. Express yourself to the fullest ✨🥳",
+      "With lots of cats 😺,",
+      "Rudra heh~"
+    ],
+    "readyButtonLabel": "Surprise?"
+  },
+  "cakeRoom": {
+    "title": "Happy Birthday GalaxyAnhilator!",
+    "popup": {
+      "messages": [
+        "Even more personalized messages..",
+        "Wish your fren as much as you want."
+      ],
+      "emojis": [
+        "🥲✨",
+        "💖🥳🫂"
+      ]
+    }
+  },
+  "giftBox": {
+    "popup": {
+      "messages": [
+        "This should be some secret message",
+        "Build some hype here & reveal it in person maybe?"
+      ],
+      "emojis": [
+        "🔒",
+        "🕊️"
+      ]
+    }
+  },
+  "discordWebhook": {
+    "url": "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxx/yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "notifications": {
+      "candlesBlownOut": "All cake candles blown out!",
+      "cakeClicked": "Cake clicked and popup shown!",
+      "giftBoxClicked": "Secret message opened!"
+    }
+  }
+}
