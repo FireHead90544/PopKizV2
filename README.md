@@ -8,11 +8,14 @@ A live static demo can be found [here](https://firehead90544.github.io/PopKizV2)
 ## Installation
 
 - Clone the repository & cd into it
-`git clone https://github.com/FireHead90544/PopKizV2 && cd PopKizV2`
-
+```bash
+git clone https://github.com/FireHead90544/PopKizV2
+cd PopKizV2
+```
 - Run the development server
-`npm run start`
-
+```bash
+npm run start
+```
 - Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ## Configuration
