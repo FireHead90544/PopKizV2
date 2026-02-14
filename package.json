@@ -1,0 +1,31 @@
+{
+  "name": "popkizv2",
+  "version": "1.0.0",
+  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^5.0.2"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireHead90544/PopKizV2.git"
+  },
+  "keywords": [
+    "Happy",
+    "Birthday"
+  ],
+  "author": "FireHead90544",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FireHead90544/PopKizV2/issues"
+  },
+  "homepage": "https://firehead90544.github.io/PopKizV2"
+}
